@@ -1,0 +1,8 @@
+[translated]
+module tests
+
+fn C.testFunc()
+
+pub fn testfunc() {
+	C.testFunc()
+}
